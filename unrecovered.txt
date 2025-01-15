@@ -9,3 +9,9 @@ round 14, vol.vmem.7z
 round 14, EoMeFNEXUAAryIa.jpg
 round 14, secvol.vmem.7z
 round 14, flag.bin
+round 16, capture.pcapng
+round 16, flag.zip
+round 16, babel.txt
+round 16, source.zip
+round 16, libc.bak
+round 16, bf
