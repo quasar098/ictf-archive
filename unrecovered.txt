@@ -15,3 +15,12 @@ round 16, babel.txt
 round 16, source.zip
 round 16, libc.bak
 round 16, bf
+round 18, firmware.hex
+round 18, player_1.zip
+round 18, ContrabandWords.txt
+round 18, Eth007.py
+round 18, qrcode_1.png
+round 18, sig
+round 19, flag
+round 19, Dockerfile
+round 19, opendoors
