@@ -3,3 +3,9 @@ round 10, broken_bear.png
 round 10, countdown-baseball.txt
 round 10, raid_recovery.zip
 round 13, pickles.py
+round 14, a_fun_cipher.py
+round 14, output.txt
+round 14, vol.vmem.7z
+round 14, EoMeFNEXUAAryIa.jpg
+round 14, secvol.vmem.7z
+round 14, flag.bin
