@@ -1,0 +1,681 @@
+Blind Shell (125pts): blind.py
+JSON, but not notation (175pts): jbnn.zip
+ReDOS (75pts): redos.py
+Bland RSA (75pts): out.txt
+Camouflage (50pts): Camouflage.png
+Form a String (50pts): Form_a_String.rar
+Just in Time 1 (125pts): lookatthetime.py
+Librarian (175pts): librarian
+Minijail (125pts): minijail.py
+Optimal RSA (75pts): output.txt
+Overlooked (125pts): anew.rar
+Salty (70pts): bash.py
+Sanity Check Round 9 (15pts): flag.txt
+The GOAT (150pts): goat
+When is it? (100pts): pwn2
+canaries (150pts): canaries
+lookup-rev (75pts): wpre.py
+pyrev (50pts): out.txt
+ret2win (75pts): ret2win
+vnpack (75pts): vnpack
+&aaa (30pts): aaa
+&bbb (85pts): aaa
+A little birdie told me... (127pts): birdie
+An ICICLE to Remember (100pts): spec_v2.md
+An ICICLE to Remember (100pts): chall2.s
+Ask Hell (135pts): main.hs
+BST (135pts): bst.py
+Boxed in (100pts): boxed_in.c
+Broken Bear (50pts): broken_bear.png
+Castles (100pts): castle98.zip
+Countdown Baseball (75pts): countdown-baseball.txt
+Easy Crypto Challenge (125pts): EasyCryptoChallenge.zip
+Green shell (50pts): dist.zip
+Guess the Password (75pts): password.py
+Horst (75pts): horst.py
+Horst (75pts): output.txt
+Indigestion (142pts): indigestion.py
+Introductory ICICLE (100pts): spec_v1.md
+Introductory ICICLE (100pts): chall1.s
+Librarian 2 (131pts): librarian2
+Librarian 3 (142pts): librarian3
+ROPnCall (75pts): ROPnCall
+Raid Recovery (125pts): raid_recovery.zip
+Super Quantum League (97pts): superquantumleague.py
+Suspicious Server (100pts): player.txt
+Two Loves (75pts): TwoLoves.txt
+armored car (100pts): car
+neat-rsa (65pts): rsa.txt
+neat-rsa (65pts): main.py
+neatX2-rsa (80pts): main.py
+neatX2-rsa (80pts): rsa.txt
+syscall me maybe (50pts): syscall_me_maybe
+3ll1pt1c R1n95 (125pts): m41n.sage
+Add and Add (75pts): output.txt
+Add and Add (75pts): add_and_add.py
+Do Some Arithmetic (150pts): do_some_arithmetic.py
+Enigma (125pts): hardenigma.zip
+Find me (50pts): find_me.txt
+Frozen exploit (150pts): exploitme.s
+Frozen exploit (150pts): icicle.py
+Go Fish! (125pts): gofish
+How Long Is It? (125pts): How_Long_Is_It.png
+ICICLEs Facing the Sky (150pts): rev.s
+ICICLEs Facing the Sky (150pts): icicle.py
+Identity (100pts): id
+Keycode (100pts): key
+Mission Impossible (75pts): mission
+Paranoia (125pts): stolen.tar
+Tax Evasion (100pts): jail.py
+Textbook RSA 2: Timmy the Lonely Oracle (100pts): oracle.py
+Transistors: More Than Meets The Eye (125pts): Transistor.png
+Uncrashable (50pts): babypwn2
+Uncrashable (50pts): babypwn2.c
+Winnie (75pts): winnie.exe
+Word (50pts): Word.docx
+aMAZEing-challenge (100pts): maze.py
+aMAZEing-challenge (100pts): cookie_decoder.py
+aMAZEing-challenge (100pts): client.py
+aMAZEing-challenge (100pts): server.py
+eyes-on-stack (75pts): pwn_12c
+filling-blanks (50pts): solve.py
+filling-blanks (50pts): predict
+kevin (75pts): kevin5.png
+ret2libc (100pts): pwn_12c
+small enough (100pts): small_enough.py
+small enough (100pts): output.txt
+Arabica (75pts): Coffee.class
+Ay Yi Yi (150pts): player_files.zip
+Bullet time (175pts): bullet_time
+Bullet time (175pts): output.txt
+Caesar Tart (75pts): caesartart.py
+Glitchy Video (75pts): steg2.wav
+ICICLE Golf (125pts): player_files.zip
+ICICLE Jail (75pts): pwn.py
+ICICLE Jail (75pts): icicle.py
+ICICLE Jail (75pts): spec_v3.md
+Password Recovery Pt. 1 (100pts): password.recovery.mbox
+Password Recovery Pt. 3 (125pts): password.recovery.pt3.mbox
+Password Recovery Pt.2 (125pts): password.recovery.mbox
+Puzzle (125pts): puzzle.zip
+Regular Reversing (125pts): regularrev.txt
+Reversing Some Algorithms (100pts): chall.py
+Too Old (75pts): old.py
+how r u (75pts): how_r_u.py
+overflowwwwwwwww (75pts): libc.so.6
+overflowwwwwwwww (75pts): overflowwwwwwwww
+ovvvvvvvvvverflow (75pts): ovvvvvvvvvverflow
+smells Like Stereo Bits (100pts): smells_Like_Stereo_Bits.jpg
+Breakfast at Tiffany's (125pts): Breakfast_at_Tiffanys.v2.png
+Ctryptography (100pts): main.py
+Fickle Pickles (200pts): pickles.py
+I can't hear you! (75pts): flag.txt
+More pale (100pts): output.txt
+More pale (100pts): more_pale.py
+Moving Target Defense (75pts): server.py
+My Key! (150pts): MyKey
+Now You See Me (75pts): NowYouSeeMe.c
+Prison Shell - Who Did It? (75pts): app.py
+Rabid (110pts): output.txt
+Rabid (110pts): rabid.py
+Sense and Sensibility (50pts): SenseAndSensibility.py
+The Muppets (50pts): kermit.png
+Twenty Thousand Leagues Under The Sea (75pts): server.py
+Unfriendly RSA (90pts): unfriendly_rsa.py
+a little break 2 (50pts): a_little_break.py
+bagel-shop (200pts): bagel-shop.zip
+carcerophobia (125pts): carcerophobia.zip
+graphophobia (100pts): graphophobia.c
+graphophobia (100pts): graphophobia
+hippopotomonstrosesquippedaliophobia (30pts): hippopotomonstrosesquippedaliophobia.zip
+megalophobia (125pts): megalophobia.7z
+merinthophobia (125pts): merinthophobia
+n% dumb, for n=100 (125pts): dumb.zip
+ophidiophobia (75pts): ophidiophobia.7z
+!!!Overflow (200pts): vuln-v3
+!!!Overflow (200pts): vuln-v3.c
+!!overflow (200pts): vuln-v3
+!!overflow (200pts): vuln-v3.c
+!overflow (75pts): vuln-v2.c
+!overflow (75pts): vuln-v2
+A fun cipher (250pts): a_fun_cipher.py
+A fun cipher (250pts): output.txt
+Astronomical (300pts): astronomical.zip
+Eve in Cryptoland: The Rabbithole__ (150pts): rabbithole.py
+Format String Fun (200pts): vuln
+High Volatility (50pts): vol.vmem.7z
+JCTF (50pts): flag
+Know your abcd's (50pts): vuln
+Know your abcd's (50pts): vuln.c
+Mission De-xor (125pts): chal2.py
+Most Treacherous Deceiver 3.0 (200pts): server.py
+Most Treacherous Deceiver 3.0 (200pts): strange.py
+My Tremendous Defender 2.0 (100pts): server.py
+Oh StegaNO (100pts): EoMeFNEXUAAryIa.jpg
+Prison Shell - 23456 (100pts): app.py
+Rotversing (50pts): rotversing.py
+Secure Volatility (150pts): secvol.vmem.7z
+Shuffled (100pts): out.txt
+Shuffled (100pts): shuffled.py
+Shuffled again (175pts): out.txt
+Shuffled again (175pts): shuffled_again.py
+SprintVM (150pts): interpreter
+SprintVM (150pts): interpreter.c
+SprintVM (150pts): helloworld.txt
+Telephone (200pts): telephone
+Where did it go? (100pts): flag.bin
+aibohphobia (100pts): aibohphobia
+tychophobia (50pts): enc.py
+3SAT (150pts): Makefile
+3SAT (150pts): 3sat.v
+Bored (125pts): bored
+CVE-2021-38185 (200pts): README.txt
+CVE-2021-38185 (200pts): cpio.py
+Challenge Response (125pts): server.py
+Corruption of the Void (75pts): flag.txt
+Create Scanner (50pts): wscan.c
+Create Scanner (50pts): wscan
+Cyber 101: My PWN Toolbox (50pts): server.py
+Cyber 101: My PWN Toolbox (FIXED) (10pts): server.py
+El Gamal (75pts): output.txt
+El Gamal (75pts): elgamal.py
+Everything (100pts): all
+Feedback (125pts): feedback.v
+Feedback (125pts): Makefile
+Less-easy RSA (75pts): totient.py
+Less-easy RSA (75pts): output-1.txt
+Links (100pts): link.py
+Magic Snake (75pts): magic.pyc
+Moderate RSA (100pts): moderate.py
+Moderate RSA (100pts): output.txt
+Really Simple Algorithm (150pts): chal.py
+Really Simple Algorithm (150pts): output.txt
+Sheep (75pts): sheep
+Wired (100pts): dist.zip
+(Open)Puffs (75pts): Never_gonna_give_you_up_1.mp3
+Basically (125pts): dist.txt
+Cookie Jar (125pts): cookie.jar
+Danger mouse (150pts): capture.pcapng
+File Formats (75pts): flag.zip
+Flagtoring (75pts): files.zip
+Lawn (50pts): green.png
+Lines (50pts): image.json
+Nice view (75pts): challenge.jpg
+Not a format string challenge (50pts): lol
+Not a math problem (50pts): babel.txt
+Not a pwn challenge (50pts): r.py
+Not an AES challenge (75pts): notaes.py
+Not an RSA challenge (75pts): notrsa.py
+Still not an AES challenge (75pts): multenc.py
+Super Pickler! (200pts): superpickle.py
+Super Pickler! (200pts): pick
+Take note (150pts): source.zip
+owoflow (125pts): libc.bak
+owoflow (125pts): bf
+Basically cats (50pts): loadPage.php
+Biscuits (75pts): main.py
+Broken RSA (75pts): broken_rsa.py
+Cucumbers (75pts): cucumber.py
+Dead AES (100pts): deadaes.py
+Hello, Log! (100pts): files.zip
+How is this reversing? (50pts): how_is_this_reversing.bin
+Markov Poetry (75pts): markov.py
+Present Search! (175pts): presents
+Reverse ... shell? (75pts): server.py
+RooBlind (100pts): main.py
+Santa's Database (125pts): form
+Sort of an AES challenge (50pts): is_aes.py
+Speedread (75pts): printer.py
+Ssssnake Whisperer (100pts): reveal.pyc
+Ssssnake Whisperer (100pts): hidden.bin
+Transversal (75pts): chal.zip
+over (125pts): dist.zip
+sigmeme (125pts): signature_meme.pyc
+Guess the ... cipher? (100pts): chall
+Lucky (75pts): main.py
+Markov's Revenge (100pts): markov_revenge.py
+Markov's Revenge (100pts): freqs.txt
+PArT CHads (150pts): firmware.hex
+Resource Heavy (75pts): player_1.zip
+Sally sells free shells by the sea shore (75pts): chall.py
+ase (75pts): ase.py
+malware (42pts): a.zip
+prison (100pts): ContrabandWords.txt
+prison (100pts): Eth007.py
+pybuf (75pts): chal.zip
+qroo (100pts): qrcode_1.png
+sc (75pts): dist.zip
+sigmeme (150pts): sig
+susPanda (42pts): susPanda.jpg
+Don't Open, Dead Inside (75pts): locked
+EasyPwn (50pts): chall
+Jack and Jill (125pts): rev.py
+Logical (100pts): flag
+Modular VM (150pts): player_files.zip
+Modular VM 2 (200pts): player_files.zip
+Modular VM 2 (200pts): Dockerfile
+Opendoors (100pts): opendoors
+Steg (50pts): asdf.txt
+bchain (75pts): bchain.bc
+spammimic (50pts): spam.txt
+twomod (100pts): twomod.py
+Ancient (150pts): ancient.zip
+AnotherEasyRsaRight? (100pts): ciphertext.txt
+Blocks (75pts): Blocks.abi
+Blocktree (200pts): abi.json
+Blocktree (200pts): check_solve.py
+Casework (75pts): casework.py
+Eve in Cryptoland: the Oracle (175pts): oracle.py
+Find me! (50pts): flag.png
+Minimal (150pts): vuln
+cartophobia (125pts): cartophobia.7z
+log4cpp (200pts): log4cpp
+mitm-cry (75pts): mitm_cry.py
+Blind RSA (100pts): blind_rsa.py
+EasyishRev (75pts): chall
+Guessing (75pts): main.py
+LSP (100pts): Dockerfile
+date (50pts): vuln
+date2 (75pts): vuln
+date3 (75pts): vuln
+date4 (100pts): vuln
+flagcheck (50pts): flagcheck
+nono (50pts): nono.zip
+Applebot 4.0 (100pts): applebot
+Development Network (75pts): flag.pcapng
+Easyrev (50pts): easyrev
+Godel's Scheme (100pts): output.txt
+Godel's Scheme (100pts): godel.py
+Internal Bleeding (50pts): out
+Little RSA (50pts): little.txt
+N0! reversing?! (200pts): nvm
+NorPy 1: Beginnor's Luck (75pts): nor.py
+NorPy 2: A Minor Setback (100pts): norpy2.zip
+Plugging the Leak (200pts): my_image_dl.png
+Rocks (50pts): rocks.py
+Samuel Finley Breese (50pts): file.wav
+State Prison (75pts): jail.py
+Tone Insertion (125pts): tone.py
+Tone Insertion (125pts): tone.wav
+Where on the earth? (125pts): where_on_the_earth.zip
+printfilter (75pts): vuln
+sourceless rust solana pwn (75pts): vuln
+still not solana (75pts): vuln
+Blocks (50pts): blocks.txt
+Collisions (75pts): orig_image.png
+Countdown Guessing (75pts): main.py
+Cursed Caesar (50pts): encode.py
+Cursed Caesar (50pts): output.txt
+Lemon Demon (100pts): flag-new.wav
+Links 1 (75pts): links1
+Links 2 (100pts): links2
+Links 3 (200pts): links3
+Noise (35pts): audio.wav
+Numbers (75pts): numbers.xlsm
+Obfuscated (100pts): cr.py
+Obfuscated (100pts): output.txt
+One Liner (75pts): oneline.py
+Power Towers (125pts): tot.py
+R5A (75pts): output.txt
+R5A (75pts): r5a.py
+Redacted (75pts): unknown.png
+Stackless Jail (100pts): server.py
+Stardom (75pts): alice.wav
+System of Equations (90pts): challenge_8
+The Big Bad Wolf (125pts): huff
+The Big Bad Wolf (125pts): encoded.huff
+solana rev (75pts): main.o
+Age (75pts): outer.zip
+C-- (100pts): flag
+ESCHEW fIVE (75pts): club
+Geoguessr Sucks (50pts): crazy_vacay.png
+Lost Flag (50pts): flag.zip
+Nameless Jail (100pts): server.py
+Notepad as a Service (75pts): notepad
+Pickle (50pts): out.pickle
+Reflection (75pts): reflection
+Relatively Small Arguments (75pts): rsa.py
+Roguelike-like (75pts): game.py
+Roguelike-like: Darkened (75pts): game.py
+SMD (75pts): chal.smd
+Self-Reference (75pts): out.pickle
+Shine (200pts): flag.txt
+TARp (100pts): server.py
+Timing (75pts): timer
+blind (100pts): libc-2.31.so
+blind (100pts): vuln
+dont-syscall-me (200pts): vuln
+reblinded (200pts): libc-2.31.so
+reblinded (200pts): vuln
+scrambled (200pts): vuln
+xorrot (50pts): xorrot.py
+Assorted (75pts): assorted
+Does Variety Impart The Most Delicious Spice? (100pts): sample.gif
+Does Variety Impart The Most Delicious Spice? (100pts): sample.dvi.gz
+Does Variety Impart The Most Delicious Spice? (100pts): flag.dvi.gz
+Enormous (50pts): enc.py
+Enormous (50pts): out.txt
+I like to MOV it, MOV it! (100pts): chall
+Mapsack (200pts): mapsack.py
+Mapsack (200pts): output.txt
+Modest Mouse (75pts): mouse
+Personalized (75pts): enc.py
+Pwn Polling (75pts): pwn
+Shady Penguins (75pts): Spy
+Shady Penguins (75pts): Penguins
+Vault (75pts): gen.py
+Vault (75pts): vault.txt
+What Next (75pts): source.zip
+Zippy (200pts): gen.py
+Zippy (200pts): chall.zip
+_ (75pts): 0.py
+dont-show-me-what-you-got (200pts): vuln
+escape quikmafs (75pts): server.py
+escape quikmafs revenge (100pts): server.py
+mixup (30pts): flag.txt
+same (75pts): output.txt
+same (75pts): same.py
+show-me-what-you-got (75pts): vuln
+AIpplebot (75pts): aipplebot.py
+Box (50pts): challenge.py
+First RSA (100pts): output.txt
+First RSA (100pts): chall.py
+Here's some Rev (75pts): out.txt
+Here's some Rev (75pts): test
+Here's some Rev v2 (75pts): chall.pyc
+Here's some Rev v2 (75pts): output.txt
+Here's some Rev v3 (75pts): chall
+Highlighter (50pts): vuln
+Highlights (50pts): highlights
+JRKE (125pts): JRKE.jar
+JRKE (125pts): output.txt
+Linear Feedback Shift Randomness (125pts): out.txt
+Linear Feedback Shift Randomness (125pts): main.py
+No modulus (200pts): chall.py
+No modulus (200pts): output.txt
+Not a kernel pwn (100pts): not_a_kernel_pwn_dist.tar.gz
+Read (125pts): chall
+Rolled my own Crypto (90pts): main.py
+Shifted (50pts): shifted.py
+Zeroed In (75pts): zeroed.py
+pqqp (75pts): chall.py
+pqqp (75pts): output.txt
+风水大师 (200pts): server.py
+ANSInvisible (75pts): flag
+Baby Shell (50pts): chall
+Baby Shell (50pts): main.cpp
+Base 42 (50pts): base42.py
+Cashhat (75pts): gen.py
+Hello World as a Service (100pts): server.py
+Hello World as a Service (100pts): Dockerfile
+JRKE (125pts): output.txt
+JRKE (125pts): Main.java
+JRKE (125pts): SlightlyMoreSecureRandom.java
+Loggerman (75pts): logs.txt
+Luggage (75pts): gen.py
+Luggage (75pts): out.txt
+Marvellous Numbers (75pts): Encryption.py
+Mobius (200pts): checker.py
+Outsourcing (75pts): outsourcing
+Pyimg (100pts): server.py
+RSA-CBC (75pts): output.txt
+RSA-CBC (75pts): chall.py
+RSA-CBC v2 (125pts): chall.py
+RSA-CBC v2 (125pts): output.txt
+RSA-ECB (50pts): rsaecb.py
+RSA-ECB (50pts): output
+Really obscure procedure (75pts): revme
+Rrrrrrandomness (100pts): main.py
+Rrrrrrandomness (100pts): out.txt
+SQLLL (75pts): flag.db
+XLL (75pts): out.mem
+XLL (75pts): xll
+^([rgvxn]g?e){3}r$ (125pts): revenger.py
+^([rgx]e){3}r$ (50pts): regexer.py
+tinyshell (125pts): tinyshell
+(il)logical chaos (100pts): challenge.db
+A Very Good Place to Start (75pts): start
+Ant Roppy (75pts): main.py
+Borken PeeEnJee (100pts): flag.png
+Choices (50pts): flag.zip
+Decisions (75pts): flag.zip
+Don't Repeat Yourself (75pts): dry.py
+Half FFT (200pts): output.npy
+Half FFT (200pts): chall.py
+Orange (75pts): orange.png
+Overcomplicated (100pts): overcomplicated
+RSAgain (90pts): out.txt
+RSAgain (90pts): main.py
+RStrikebAck (95pts): out.txt
+RStrikebAck (95pts): main.py
+Recaesar (75pts): recaesar.py
+Recaesar Revenge (100pts): output.txt
+Recaesar Revenge (100pts): recaesar_revenge.py
+Recycled (100pts): recycled
+Regrets (75pts): server.py
+Regrets Revenge (100pts): server.py
+Ron was wrong, Whit is right (75pts): messages.txt
+Ron was wrong, Whit is right (75pts): ronwaswrong.py
+Substitution (100pts): chall.py
+Unchanged (100pts): chall
+A Puzzle in Seven Parts (75pts): message.txt
+Caesarandom (75pts): caesarandom.py
+Directions (50pts): out.zip
+Efficiency (75pts): efficiency
+Elden Token (100pts): eldentoken.py
+Persistence (100pts): persistence
+Persistence (100pts): Dockerfile
+Rather Secure Attachment (100pts): output.txt
+Rather Secure Attachment (100pts): chall.py
+Req Bin (100pts): reqbin.tar.gz
+Signed (75pts): server.py
+Strong Prime (100pts): server.py
+Tim(e)sort (75pts): timesort
+xkcd 835 (200pts): chall.tar.gz
+AES2 (125pts): aes2.py
+Caesar++ (50pts): caesar.py
+Chaotic Cats (75pts): gen.py
+Chaotic Cats (75pts): flag.png
+Destructive (75pts): destructive
+Easy DSA: Elated once (100pts): main.py
+Easy DSA: Elated once (100pts): out.txt
+Easy DSA: LCG (200pts): output.txt
+Easy DSA: LCG (200pts): chall.py
+Easy DSA: Lovely Little Lane (125pts): main.py
+Easy DSA: Lovely Little Lane (125pts): out.txt
+Easy DSA: The beginning (50pts): out.txt
+Easy DSA: The beginning (50pts): main.py
+Echo (125pts): server.tar.gz
+Entropy (150pts): future.txt
+Entropy (150pts): gen.py
+Forgetful (75pts): flag.protobuf
+Indirection (75pts): indirection.py
+Indirection (75pts): flag.png
+Instructive (50pts): instructive
+Invalid (110pts): main-redacted.py
+Lucky VM (100pts): lucky_vm
+Lucky VM (100pts): bin
+Perl Pwn (50pts): chall
+Power RSA (75pts): chall.py
+Power RSA (75pts): output.txt
+Prototype (100pts): flag.protobuf
+Sips Tea (75pts): flag.enc
+Sips Tea (75pts): encrypt.exe
+Sneaky Binary (50pts): image.txt
+Waving in the Wind (75pts): tree.pickle
+Waving in the Wind (75pts): tree.py
+rrngg (100pts): flag.enc
+rrngg (100pts): chal.py
+wunzirow (50pts): wunzirow.wav
+Accented (50pts): flag.txt
+Assembly (50pts): chall.s
+Caesar# (50pts): caesar.py
+Intro Buffer Overflow (50pts): introbof
+KVIN (125pts): chall.tar.gz
+PWN 101: Secure Logon (150pts): secure_logon.zip
+Penguin (50pts): penguin.png.enc
+Penguin (50pts): penguin.py
+Race for it (175pts): race_for_it
+Rust Overflow (50pts): rustoverflow
+SHrug (75pts): SHrug
+Salty (75pts): main.py
+Yearly Colors (50pts): Yearly_Colors.png
+glaf (50pts): glaf
+Lucky (100pts): lucky
+No Comment (75pts): server.py
+Old School (125pts): chall.tar.gz
+Poly RSA (150pts): output.txt
+Poly RSA (150pts): chall.sage
+Reversive (75pts): reversive.py
+Seedsar (75pts): seedsar.py
+Simple Buffer Overflow (75pts): bofsimple
+Wireshark! (50pts): flag.pcapng
+Xeger 1 (75pts): xeger1.py
+Xeger 2 (100pts): xeger2.py
+[REDACTED] (75pts): redacted.png
+Capture the Flag (75pts): Dockerfile
+Capture the Flag (75pts): server.py
+Cat mask (50pts): passwordlist.txt
+Decorated (100pts): server.py
+Easy Buffer Overflow (100pts): libc.so.6
+Easy Buffer Overflow (100pts): bofeasy
+Futuristic (75pts): out.bin
+Futuristic (75pts): futuristic
+Hashed Flag (50pts): output.txt
+Hashed Flag (50pts): hasher.py
+Hydra (125pts): hydra.py
+Minimalist (75pts): server.py
+QCG (75pts): qcg.py
+Revving Up (75pts): revving_up
+Seeksar (50pts): seeksar.py
+Snake (75pts): snake.py
+The End (75pts): encoded.txt
+Vault (200pts): vault.tar.gz
+YARSAC (50pts): output.txt
+YARSAC (50pts): yarsac.py
+Breaking in the jail (100pts): main.py
+C-sar (50pts): c-sar.c
+Checkered (50pts): out.pcap
+Crumb Cake (125pts): crumb_cake
+Dependency (125pts): dependency
+Dependency (125pts): out.mem
+Integrity (125pts): chall.py
+Medium Buffer Overflow (125pts): embof
+Memory (75pts): memory
+Misdirection (50pts): flag.zip
+Revenge is best served pickled (75pts): main.py
+Type Length Value (75pts): flag.tlv
+overwrite (75pts): vuln
+Encrypted Command Executor (100pts): server.py
+Markov Mystery (100pts): markov_mystery.txt
+Markov Mystery (100pts): markovgraphy.pyc
+MetaGuessr (100pts): metaguessr.png
+My Little Jail (50pts): server.py
+Owl Fever (75pts): OwlFever
+Owl Fever (75pts): owlfever_new_new
+Owl Fever (75pts): owlfever_new
+Seesawr (50pts): seesawr.py
+Small Ant-eating Rabbits (75pts): server.py
+YAFC (100pts): chall
+quadratic (75pts): gen.py
+ret2ribc (75pts): vuln
+ret3ribc (100pts): vuln
+ret4ribc (125pts): vuln
+squished (75pts): gen.py
+Based (75pts): based
+C-C-C-Combinator! (100pts): combinator
+Hoothoot Flow (50pts): hoot
+Inuit-Ka! (100pts): checker.dist.zip
+RSAddition (50pts): output.txt
+RSAddition (50pts): rsaddition.py
+cAESar (50pts): caesar.py
+doublefree (50pts): libc.so.6
+geoguessr (50pts): osint.png
+strange flag checker (75pts): strange.txt
+stranger flag checker (100pts): stranger.txt
+Army (100pts): chal
+Army (100pts): libc.so.6
+Cascade (75pts): cascade.py
+CyberChef (100pts): challenge-url.txt
+Disorderly Conduct (75pts): out.zip
+Hash it out (100pts): out.mem
+Hash it out (100pts): hash
+No Cigar (50pts): server.py
+Pwny (75pts): chal
+PyCryptoJail (150pts): pycryptojail.py
+Rather Sneaky Arithmetic (50pts): output.txt
+Rather Sneaky Arithmetic (50pts): enc.py
+Seesawr 2.0 (50pts): seesawr.py
+Time Signer (125pts): chall.py
+You can't reverse me (100pts): Dockerfile
+lfsrcrypt (75pts): gen.py
+lfsrcrypt (75pts): output.txt
+rustrust (75pts): rustrust
+A Timely Manner (75pts): flag.zip
+Base64 Decryption (50pts): flag.bin
+C's Errors (50pts): error
+Carry Out (75pts): CarryOut
+Classloader (75pts): challenge.jar
+Exceptional Pyjail (50pts): Dockerfile
+Exceptional Pyjail (50pts): server.py
+Sea's Air (50pts): seasair.py
+Starry Night (75pts): star.jpg
+The House Usually Wins (75pts): house
+Hidden Taps (75pts): main.py
+Hidden Taps (75pts): output.txt
+Notetaker (150pts): libc.so.6
+Notetaker (150pts): vuln
+Safe Pickle (100pts): safe_pickle.tar.gz
+caeRSA (75pts): main.py
+caeRSA (75pts): output.txt
+roppy (75pts): vuln
+traumatic (75pts): chal
+CryptoLog Exploring (50pts): logs.zip
+Leet Universe (100pts): server.py
+Segment Trees (crypto edition) (125pts): segtree
+aes2 (75pts): vuln
+caeRSA2 (50pts): output.txt
+caeRSA2 (50pts): caeRSA2.py
+caeRSA3 (75pts): output.txt
+caeRSA3 (75pts): chall.py
+crypto (50pts): main
+Bob The Rational Builder (75pts): chall.py
+runme (50pts): chall
+unnamed pickle rev (75pts): out.pickle
+xorpwn (75pts): chall
+FLT-2024 (75pts): chall.py
+RSA-2024 (100pts): rsa2024.py
+file properties (50pts): stuff.py
+fs (50pts): image.img
+idx (50pts): vuln
+keygen (50pts): id_rsa.pub
+oob2win (75pts): vuln
+Three Pieces (100pts): challenge.py
+babywrite (100pts): babywrite.zip
+outsourcing (200pts): app.py
+pickle-madness (200pts): chal.py
+strings (100pts): ictf_r41.pdf
+toddlerwrite (200pts): todderwrite.zip
+ziggy (200pts): chal
+Blackout Crypto (100pts): chall.sage
+Blackout Crypto (100pts): out.sobj
+FLT-1337 (50pts): Dockerfile
+FLT-1337 (50pts): server.sage
+RandomWalk (75pts): walk.exe
+Serious Cryptography (75pts): source.py
+Serious Cryptography (75pts): output.txt
+Sleepy (50pts): chal.py
+UInt8Array Bad (150pts): uint8array_bad-handout.zip
+imagesearch (75pts): chal.py
+imagesearch (75pts): output.png
+secret box (75pts): secret-box
+squashed (75pts): FlagGetter2
+whats an n? (75pts): chal.py
+Crack (75pts): chall.py
+Cryptic Interop (125pts): CrypticInterop.jar
+JavaRev101.class (50pts): JavaRev101.class
+Moonjump (150pts): main.lua
+Moonjump (150pts): chall.bmp
+Time (75pts): chall.py
+Time 2 (85pts): chall.py
+nontrivial (75pts): nontrivial
