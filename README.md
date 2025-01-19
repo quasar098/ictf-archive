@@ -18,12 +18,12 @@ you will need to go into that round-X folder in this directory, and find the fil
 
 keep in mind that some of the files discord has deleted from their cache, so i was not able to download them. you may be able to find this online; this is left as an OSINT exercise for the reader (sorry lol). these files are listed in unrecovered.txt.
 
-if you truly cannot find it, do not contact me asking for help.
+if you are confused on a step, do not contact me for help
+
+if you strongly believe there is a missing file or a file with the wrong name, then it is contacting me is permissible
 
 ## todo
 
 - rounds before round 9 do manually
-
-- sort through the rest of the rounds
 
 - save challenge descriptions and authors (?)
