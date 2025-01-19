@@ -24,3 +24,25 @@ round 18, sig
 round 19, flag
 round 19, Dockerfile
 round 19, opendoors
+round 20, ancient.zip
+round 20, ciphertext.txt
+round 20, oracle.py
+round 21, chall
+round 22, little.txt
+round 23, tot.py
+round 23, server.py
+round 23, alice.wav
+round 23, challenge_8
+round 24, flag.zip
+round 25, Spy
+round 25, Penguins
+round 26, out.txt (Here's some Rev)
+round 26, JRKE.jar
+round 26, output.txt (JRKE)
+round 26, out.txt (Linear Feedback Shift Randomness)
+round 26, main.py (Linear Feedback Shift Randomness)
+round 26, main.py (Rolled my own Crypto)
+round 27, Encryption.py
+round 28, challenge.db
+round 28, messages.txt
+round 28, ronwaswrong.py
